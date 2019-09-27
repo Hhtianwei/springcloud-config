@@ -1,8 +1,8 @@
-env: hello zuul
-
 spring:
   rabbitmq:
     host: localhost
     port: 5672
     username: guest
     password: guest
+
+env: hello
