@@ -22,5 +22,5 @@ jhipster:
 
 # Enable /management/logfile endpoint for all apps
 logging:
-    path: /tmpanccccccccc
+    path: /tmpancccccccccdev
     file: ${spring.application.name}.log
